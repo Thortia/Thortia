@@ -1,4 +1,14 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&text=HGLee)
+
+<img src="https://img.shields.io/badge/Mail-blue?style=flat&logo=Gmail&logoColor=CC6699"/> leehg3770@gmail.com
+
+
+
+
+
+
+
+
 
 <!--
 **Thortia/Thortia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
